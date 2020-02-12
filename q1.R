@@ -4,6 +4,8 @@
 # 2. shows also statistics such as min, max, mean and median of corresponding arrival delay
 # You don't have to publish your app to shinyapps.io, just submit this file to github.
 
+# See https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-4/issues/1
+# for some screenshots of my solution. Your don't have to use an identical layout.
 
 
 library(nycflights13)
