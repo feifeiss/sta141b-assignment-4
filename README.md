@@ -2,8 +2,8 @@
 
 Instructions
 
-1. accept the assignment via the link: 
-    Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-3-USERNAME`
+1. accept the assignment via the link: https://classroom.github.com/a/RJlTkEeG
+    Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-4-USERNAME`
     This repository could be only seen by you.
 1. `git clone` the repository locally (or create new R project from version control)
 1. commit the changes, including any knited documents
