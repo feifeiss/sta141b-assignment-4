@@ -1,9 +1,9 @@
 ---
-title: "Question1"
+title: "Question2"
 output: html_document
 ---
 
-Note: You need to be either on the campus or connecting via UCD vpn in order to be able to connect to the postgres server alan.ucdavis.edu.
+Note: You need to be either on the campus or connected to UCD vpn in order to connect the postgres server on alan.ucdavis.edu.
 
 ```{r}
 library(DBI)
